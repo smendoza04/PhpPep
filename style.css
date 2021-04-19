@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 1, 2021, 4:28:31 PM
+    Author     : Sophia Patrice
+*/
+
+/* @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700'); */
+
+html, body {
+    font-family: "Poppins", sans-serif;
+    color: #222;
+    background-color: #4CAF50;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.index {
+    margin-top: 200px;
+}
+
+.index h1 {
+    text-align: center;
+    color: white;
+}
+
+
+.button {
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.mode {
+    padding: 15px 54px;
+}
+
+.bot {
+    padding: 15px 37px;
+}
+
+.easyHard {
+    padding: 15px 42px;
+}
+
+
+.inputBox {
+    padding: 15px 10px;
+}
